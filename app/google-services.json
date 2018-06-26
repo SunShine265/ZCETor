@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "38886065488",
+    "firebase_url": "https://flypool-monitor-498a7.firebaseio.com",
+    "project_id": "flypool-monitor-498a7",
+    "storage_bucket": "flypool-monitor-498a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38886065488:android:8d0223aa89f6e394",
+        "android_client_info": {
+          "package_name": "com.goodproductssoft.flypoolmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38886065488-q3da7dms5e7b334o49fltlsf1jloe5fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi80RFcE43MJR4BZwnVP7oqTA2Dnuxra8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
